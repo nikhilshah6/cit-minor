@@ -42,7 +42,8 @@ Description: The purpose of this project is to familiarize students with GitHub 
 Lab 8 -
 Description: This lab aims to familiarize you with Node.js, Fastify, and the node-fetch package. You'll create a Node.js folder, install dependencies, implement Fastify routes, and use node-fetch to fetch data from the JSONPlaceholder API. The lab file will include routes for retrieving all photos and a single photo, handling Promises, and returning relevant status codes and data.
 
-Lab 9 -
+Lab 9 - https://github.com/nikhilshah6/skills-release-based-workflow.git
+
 Description: The purpose of this project is to create a release based workflow using GitHub Learning Lab. It involves creating a course repo, working through the course steps, and downloading the completed course repo as a deliverable.
 
 Project 7 -
