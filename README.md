@@ -3,6 +3,7 @@ github page for cit project
 
 
 Lab 1 - https://github.com/nikhilshah6/Lab-01.git
+
 Description: The purpose of this lab is to gain familiarity with software tools required for the course and provide hands-on practice using them. It includes installation and setup instructions for tools like Chrome, Visual Studio Code, Node.js, git, and Postman. Uses terminal commands, keyboard shortcuts, and creating Node.js server-side JavaScript file.
 
 Project 1 - 
