@@ -6,6 +6,7 @@ Lab 1 - https://github.com/nikhilshah6/Lab-01.git
 
 Description: The purpose of this lab is to gain familiarity with software tools required for the course and provide hands-on practice using them. It includes installation and setup instructions for tools like Chrome, Visual Studio Code, Node.js, git, and Postman. Uses terminal commands, keyboard shortcuts, and creating Node.js server-side JavaScript file.
 
+
 Project 1 - 
 Description: The purpose of this project is to gain hands-on experience with CLI commands, folder creation, pinging domains, and writing JavaScript programs using Node.js and Visual Studio Code. It also aims to reinforce the understanding of arrays and random number generation in JavaScript.
 
