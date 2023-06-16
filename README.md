@@ -29,7 +29,9 @@ Description: This project aims to create a Fastify Node.js web server that handl
 Project 4 -
 Description: The project involves creating a REST API that interacts with a data source containing questions and answers. It requires implementing code modules and routes to handle various operations on data, such as retrieving specific questions or answers and testing the functionality using tools like Postman.
 
-Lab 5 -
+Lab 5 - https://github.com/nikhilshah6/CIT-Lab-05.git
+
+
 Description: The purpose of this project is to develop a Node.js and Fastify server application that handles GET and POST requests, allowing interaction with a collection of data.
 
 Lab 6 - https://github.com/nikhilshah6/CIT-Lab-06.git
