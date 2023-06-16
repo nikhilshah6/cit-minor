@@ -17,16 +17,16 @@ Description: The purpose of this project is to familiarize students with using t
 Project 2 - 
 Description: The purpose of this project is to practice using git and refactoring JavaScript code. It involves creating a git repository, refactoring a JavaScript program by isolating code into functions and eliminating global variables, and using function expressions.
 
-Lab 3 - 
+Lab 3 - https://github.com/nikhilshah6/CIT-Lab-03.git
 Description: This lab aims to improve JavaScript skills by practicing modern syntax, object destructuring, arrow functions, loop syntax, and creating/importing code modules for Node.js.
 
-Project 3 -
+Project 3 - https://github.com/nikhilshah6/CIT-Project-3.git
 Description: This project involves creating a JavaScript code module for coin calculations and a web server using Node.js and Fastify to serve those calculations. It also includes an index.html file for the web page interface and routes for different coin calculations.
 
-Lab 4 - 
+Lab 4 - https://github.com/nikhilshah6/CIT-Lab-04.git
 Description: This project aims to create a Fastify Node.js web server that handles different routes and query parameters, providing web content based on the requested URLs. The goal is to learn and practice web server development using Fastify and Node.js.
 
-Project 4 -
+Project 4 - https://github.com/nikhilshah6/CIT-Project-4.git
 Description: The project involves creating a REST API that interacts with a data source containing questions and answers. It requires implementing code modules and routes to handle various operations on data, such as retrieving specific questions or answers and testing the functionality using tools like Postman.
 
 Lab 5 - https://github.com/nikhilshah6/CIT-Lab-05.git
