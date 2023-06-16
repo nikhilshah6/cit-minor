@@ -36,6 +36,7 @@ Lab 6 -
 Description: The purpose of this project is to create JavaScript classes for a digital book library. The classes allow for the creation, management, and deletion of books within the library.
 
 Project 6 - https://github.com/nikhilshah6/CIT-Project-06.git
+
 Description: The purpose of this project is to create and test JavaScript classes for shapes, including a base Shape class, a Rectangle class, and a Triangle class. The classes inherit from the Shape class and provide functionality for calculating the perimeter and area of shapes.
 
 Lab 7 - https://github.com/UO-CIT-nikhilshah6/cit281-lab7.git
