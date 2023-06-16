@@ -41,7 +41,8 @@ Description: The purpose of this project is to create and test JavaScript classe
 Lab 7 - https://github.com/UO-CIT-nikhilshah6/cit281-lab7.git
 Description: The purpose of this project is to familiarize students with GitHub and Git version control system by creating a GitHub organization, repository, and performing basic Git operations such as cloning, committing, and pushing changes. It also introduces error handling in JavaScript through the implementation of try-catch blocks and custom error classes.
 
-Lab 8 -
+
+Lab 8 - https://github.com/nikhilshah6/CIT-Lab-08.git
 Description: This lab aims to familiarize you with Node.js, Fastify, and the node-fetch package. You'll create a Node.js folder, install dependencies, implement Fastify routes, and use node-fetch to fetch data from the JSONPlaceholder API. The lab file will include routes for retrieving all photos and a single photo, handling Promises, and returning relevant status codes and data.
 
 Lab 9 - https://github.com/nikhilshah6/skills-release-based-workflow.git
