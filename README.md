@@ -32,7 +32,8 @@ Description: The project involves creating a REST API that interacts with a data
 Lab 5 -
 Description: The purpose of this project is to develop a Node.js and Fastify server application that handles GET and POST requests, allowing interaction with a collection of data.
 
-Lab 6 -
+Lab 6 - https://github.com/nikhilshah6/CIT-Lab-06.git
+
 Description: The purpose of this project is to create JavaScript classes for a digital book library. The classes allow for the creation, management, and deletion of books within the library.
 
 Project 6 - https://github.com/nikhilshah6/CIT-Project-06.git
